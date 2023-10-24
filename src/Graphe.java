@@ -1,3 +1,7 @@
+/**
+ * Objectif : créer un objet représentant le graphe
+ */
+
 import java.util.List;
 
 public class Graphe {
